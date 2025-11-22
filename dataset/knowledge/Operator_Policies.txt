@@ -1,0 +1,70 @@
+==============================
+OPERATOR POLICY DEFINITIONS
+==============================
+
+----------------------------------------
+1. LYCAMOBILE UK — ACTIVE OPERATOR (2025)
+----------------------------------------
+Network Policy:
+- Runs on EE 4G/5G NSA.
+- No support for VoLTE or WiFi Calling in the UK.
+- eSIM activation supported only within the UK.
+- Initial launch lacked Band 20 (800 MHz) coverage.
+
+Roaming Policy:
+- EU roaming supported with fair use cap (around 35 GB).
+- India roaming: data-only usage allowed.
+- China roaming: available only on select premium plans.
+- Roaming usage beyond limits incurs additional charges.
+
+International Calling Policy:
+- Most UK plans include 100 free international minutes.
+- Unlimited minutes available on All in One Plus plans.
+
+Plan Policy:
+- Black Friday promotions give 50% discount for first 3 months.
+- Price freeze for PAYG & contract bundles until 2026.
+
+----------------------------------------
+2. VECTONE MOBILE — CEASED OPERATOR (2023)
+----------------------------------------
+Network Policy:
+- Operated as MVNO on EE network.
+- No access to 5G.
+- Weak customer support availability historically.
+- Outdated backend infrastructure contributed to shutdown.
+
+Collapse Details:
+- Full network outage around Oct 23, 2023.
+- Services stopped abruptly → no signal, no incoming calls, no SMS.
+- Website and customer support went offline.
+- PAC codes delayed for several days.
+
+Routing Issues:
+- Many numbers originating from Vectone prefixes still have routing failures.
+- Calls from networks like Smarty, iD Mobile fail to reach those numbers.
+- Only permanent fix: change number after porting.
+
+Customer Service Policy (Historical):
+- Free texts to other Vectone users.
+- International calling bundles available.
+- Basic low-cost plans targeting migrant communities.
+
+----------------------------------------
+3. GENERAL TELECOM OPERATOR RULES
+----------------------------------------
+SIM Policies:
+- All SIMs require KYC verification.
+- Inactive SIMs >90 days may be deactivated.
+
+Billing Policies:
+- Charges are prorated during mid-cycle plan changes.
+- VAT of 20% applied on all billable services.
+
+Fair Use Policy:
+- Prevents misuse of unlimited plans.
+- Applies throttling after high-volume usage.
+
+----------------------------------------
+END OF OPERATOR POLICY FILE
+----------------------------------------

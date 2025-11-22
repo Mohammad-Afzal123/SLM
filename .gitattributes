@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.jsonl filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+=======
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.jsonl filter=lfs diff=lfs merge=lfs -text
+>>>>>>> c8bb3f8d18cd92f188778597717099c1ef9016d5
